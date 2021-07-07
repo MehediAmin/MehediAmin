@@ -33,9 +33,9 @@ I strongly believe that we, the tech industry professionals, need to keep learni
 :pushpin: **Testing Framework:** *JUnit, TestNG, Cucumber (BDD)* <br/>
 :brown_circle: **Continuous Integration:** *Jenkins*   
 :white_circle: **Build Management Tools:** *Apache Maven* <br/>
-:green_circle: **Source Control:** *Git, GitHub* <br/>
+:brown_square: **Source Control:** *Git, GitHub* <br/>
 :purple_circle: **Web Services Tools:** *Postman, Katalon, Tomcat, XML Schema* <br/>
-:white_medium_small_square: **RDBMS:** *Microsoft SQL Server 2008 R2, Oracle 10g, MySQL* 
+:yellow_square: **RDBMS:** *Microsoft SQL Server 2008 R2, Oracle 10g, MySQL* 
 :white_medium_small_square: **Cloud Computing:** *AWS (EC2 Remote Windows 10 Instance)* <br/>
 :white_medium_small_square: **Methodologies:** *SDLC, AGILE, Agile-Scrum, Programming Approach and Technique with pseudocode and Flow Chart*    
 :white_medium_small_square: **Project and Test Management:** *HP ALM, VSTS, JIRA, JQL, Confluence, Zephyr, Xray*  
