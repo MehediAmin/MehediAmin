@@ -28,13 +28,13 @@ I strongly believe that we, the tech industry professionals, need to keep learni
  ## Tecnical Skill-Set
     
 :pushpin: **Operating System:** *Windows XP/7/10, Windows Serve 2012 R2, Linux, Mac, Linux Beta* <br/>
-:white_medium_small_square: **Application Software:**  *VMware, Microsoft Sandbox, Dameware, Remote Utilities, MS Excel, Word, Visio, Outlook, Power Point, Share Point, Libre Office, Mattermost, Slack* <br/>
-:white_medium_small_square: **Testing Tools and Libraries:** *Eclipse IDE, Katalon Studio Enterprise, Katalon Runtime Engine, JDK, Selenium Suite (Selenium IDE, Selenium Grid, Selenium Java Client Driver, Selenium WebDriver)* <br/>
-:white_medium_small_square: **Testing Framework:** *JUnit, TestNG, Cucumber (BDD)* <br/>
-:white_medium_small_square: **Continuous Integration:** *Jenkins*   
-:white_medium_small_square: **Build Management Tools:** *Apache Maven* <br/>
-:white_medium_small_square: **Source Control:** *Git, GitHub* <br/>
-:white_medium_small_square: **Web Services Tools:** *Postman, Katalon, Tomcat, XML Schema* <br/>
+:pushpin: **Application Software:**  *VMware, Microsoft Sandbox, Dameware, Remote Utilities, MS Excel, Word, Visio, Outlook, Power Point, Share Point, Libre Office, Mattermost, Slack* <br/>
+:pushpin: **Testing Tools and Libraries:** *Eclipse IDE, Katalon Studio Enterprise, Katalon Runtime Engine, JDK, Selenium Suite (Selenium IDE, Selenium Grid, Selenium Java Client Driver, Selenium WebDriver)* <br/>
+:pushpin: **Testing Framework:** *JUnit, TestNG, Cucumber (BDD)* <br/>
+:brown_circle: **Continuous Integration:** *Jenkins*   
+:white_circle: **Build Management Tools:** *Apache Maven* <br/>
+:green_circle: **Source Control:** *Git, GitHub* <br/>
+:purple_circle: **Web Services Tools:** *Postman, Katalon, Tomcat, XML Schema* <br/>
 :white_medium_small_square: **RDBMS:** *Microsoft SQL Server 2008 R2, Oracle 10g, MySQL* 
 :white_medium_small_square: **Cloud Computing:** *AWS (EC2 Remote Windows 10 Instance)* <br/>
 :white_medium_small_square: **Methodologies:** *SDLC, AGILE, Agile-Scrum, Programming Approach and Technique with pseudocode and Flow Chart*    
