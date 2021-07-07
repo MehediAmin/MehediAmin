@@ -25,7 +25,7 @@ I strongly believe that we, the tech industry professionals, need to keep learni
  <br/>
     
     
- ## Tecnical Skill-Set
+ ## :pushpin: Tecnical Skill-Set
     
 :pushpin: **Operating System:** *Windows XP/7/10, Windows Serve 2012 R2, Linux, Mac, Linux Beta* <br/>
 :pushpin: **Application Software:**  *VMware, Microsoft Sandbox, Dameware, Remote Utilities, MS Excel, Word, Visio, Outlook, Power Point, Share Point, Libre Office, Mattermost, Slack* <br/>
