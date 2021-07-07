@@ -31,15 +31,15 @@ I strongly believe that we, the tech industry professionals, need to keep learni
 :small_blue_diamond: **Application Software:**  *VMware, Microsoft Sandbox, Dameware, Remote Utilities, MS Excel, Word, Visio, Outlook, Power Point, Share Point, Libre Office, Mattermost, Slack* <br/>
 :small_orange_diamond: **Testing Tools and Libraries:** *Eclipse IDE, Katalon Studio Enterprise, Katalon Runtime Engine, JDK, Selenium Suite (Selenium IDE, Selenium Grid, Selenium Java Client Driver, Selenium WebDriver)* <br/>
 :large_blue_diamond: **Testing Framework:** *JUnit, TestNG, Cucumber (BDD)* <br/>
-:brown_circle: **Continuous Integration:** *Jenkins*   
-:white_circle: **Build Management Tools:** *Apache Maven* <br/>
-:brown_square: **Source Control:** *Git, GitHub* <br/>
-:purple_circle: **Web Services Tools:** *Postman, Katalon, Tomcat, XML Schema* <br/>
-:yellow_square: **RDBMS:** *Microsoft SQL Server 2008 R2, Oracle 10g, MySQL* 
-:white_medium_small_square: **Cloud Computing:** *AWS (EC2 Remote Windows 10 Instance)* <br/>
-:white_medium_small_square: **Methodologies:** *SDLC, AGILE, Agile-Scrum, Programming Approach and Technique with pseudocode and Flow Chart*    
-:white_medium_small_square: **Project and Test Management:** *HP ALM, VSTS, JIRA, JQL, Confluence, Zephyr, Xray*  
-:white_medium_small_square: **Programming and Scripting Languages:** *Java, SQL, Groovy, HTML, XML*
+:small_orange_diamond: **Continuous Integration:** *Jenkins*   
+:small_blue_diamond: **Build Management Tools:** *Apache Maven* <br/>
+:large_orange_diamond: **Source Control:** *Git, GitHub* <br/>
+:small_blue_diamond: **Web Services Tools:** *Postman, Katalon, Tomcat, XML Schema* <br/>
+:small_orange_diamond: **RDBMS:** *Microsoft SQL Server 2008 R2, Oracle 10g, MySQL* 
+:large_blue_diamond: **Cloud Computing:** *AWS (EC2 Remote Windows 10 Instance)* <br/>
+:small_orange_diamond: **Methodologies:** *SDLC, AGILE, Agile-Scrum, Programming Approach and Technique with pseudocode and Flow Chart*    
+:small_blue_diamond: **Project and Test Management:** *HP ALM, VSTS, JIRA, JQL, Confluence, Zephyr, Xray*  
+:large_orange_diamond: **Programming and Scripting Languages:** *Java, SQL, Groovy, HTML, XML*
     
  <br/>
  
