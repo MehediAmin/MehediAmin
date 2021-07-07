@@ -29,8 +29,8 @@ I strongly believe that we, the tech industry professionals, need to keep learni
     
 :large_orange_diamond: **Operating System:** *Windows XP/7/10, Windows Serve 2012 R2, Linux, Mac, Linux Beta* <br/>
 :small_blue_diamond: **Application Software:**  *VMware, Microsoft Sandbox, Dameware, Remote Utilities, MS Excel, Word, Visio, Outlook, Power Point, Share Point, Libre Office, Mattermost, Slack* <br/>
-:pushpin: **Testing Tools and Libraries:** *Eclipse IDE, Katalon Studio Enterprise, Katalon Runtime Engine, JDK, Selenium Suite (Selenium IDE, Selenium Grid, Selenium Java Client Driver, Selenium WebDriver)* <br/>
-:pushpin: **Testing Framework:** *JUnit, TestNG, Cucumber (BDD)* <br/>
+:small_orange_diamond: **Testing Tools and Libraries:** *Eclipse IDE, Katalon Studio Enterprise, Katalon Runtime Engine, JDK, Selenium Suite (Selenium IDE, Selenium Grid, Selenium Java Client Driver, Selenium WebDriver)* <br/>
+:large_blue_diamond: **Testing Framework:** *JUnit, TestNG, Cucumber (BDD)* <br/>
 :brown_circle: **Continuous Integration:** *Jenkins*   
 :white_circle: **Build Management Tools:** *Apache Maven* <br/>
 :brown_square: **Source Control:** *Git, GitHub* <br/>
