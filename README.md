@@ -35,7 +35,7 @@ I strongly believe that we, the tech industry professionals, need to keep learni
 :small_blue_diamond: **Build Management Tools:** *Apache Maven* <br/>
 :large_orange_diamond: **Source Control:** *Git, GitHub* <br/>
 :small_blue_diamond: **Web Services Tools:** *Postman, Katalon, Tomcat, XML Schema* <br/>
-:small_orange_diamond: **RDBMS:** *Microsoft SQL Server 2008 R2, Oracle 10g, MySQL* 
+:small_orange_diamond: **RDBMS:** *Microsoft SQL Server 2008 R2, Oracle 10g, MySQL* <br/>
 :large_blue_diamond: **Cloud Computing:** *AWS (EC2 Remote Windows 10 Instance)* <br/>
 :small_orange_diamond: **Methodologies:** *SDLC, AGILE, Agile-Scrum, Programming Approach and Technique with pseudocode and Flow Chart*    
 :small_blue_diamond: **Project and Test Management:** *HP ALM, VSTS, JIRA, JQL, Confluence, Zephyr, Xray*  
