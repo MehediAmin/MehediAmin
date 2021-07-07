@@ -45,7 +45,7 @@ I strongly believe that we, the tech industry professionals, need to keep learni
  
  ### Gist about me
     
-:computer: I’m currently working on a Web Application. <br/>
+:computer: Working on a Web Application. <br/>
  🌱 I’m currently learning Cypress. <br/>
 :hourglass_flowing_sand: Desire to learn tools and technologies are new in the market. <br/>
 :books: Love to read blogs, articles and get updated with new technology. <br/>
