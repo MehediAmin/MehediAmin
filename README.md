@@ -27,7 +27,7 @@ I strongly believe that we, the tech industry professionals, need to keep learni
     
  ## Tecnical Skill-Set
     
-:white_medium_small_square: **Operating System:** *Windows XP/7/10, Windows Serve 2012 R2, Linux, Mac, Linux Beta* <br/>
+:pushpin: **Operating System:** *Windows XP/7/10, Windows Serve 2012 R2, Linux, Mac, Linux Beta* <br/>
 :white_medium_small_square: **Application Software:**  *VMware, Microsoft Sandbox, Dameware, Remote Utilities, MS Excel, Word, Visio, Outlook, Power Point, Share Point, Libre Office, Mattermost, Slack* <br/>
 :white_medium_small_square: **Testing Tools and Libraries:** *Eclipse IDE, Katalon Studio Enterprise, Katalon Runtime Engine, JDK, Selenium Suite (Selenium IDE, Selenium Grid, Selenium Java Client Driver, Selenium WebDriver)* <br/>
 :white_medium_small_square: **Testing Framework:** *JUnit, TestNG, Cucumber (BDD)* <br/>
@@ -45,13 +45,13 @@ I strongly believe that we, the tech industry professionals, need to keep learni
  
  ### Gist about me
     
-:computer: Working on a Web Application. <br/>
+:desktop_computer: Working on a Web Application. <br/>
  🌱 I’m currently learning Cypress. <br/>
 :hourglass_flowing_sand: Desire to learn tools and technologies are new in the market. <br/>
 :books: Love to read blogs, articles and get updated with new technology. <br/>
 :smile: Think positive and keep smiling. <br/>
 :handshake: Share my friendly approach, understanding and collaborate with the Team. <br/>
-:soccer: Play Badminton and Soccer. <br/>
+:badminton: Play Badminton and Soccer. <br/>
 :bulb: Create and innovate ideas. <br/>
 :link: Catch me: :file_folder: [Projects](https://github.com/MehediAmin), :e-mail: [Mehedi Amin](mailto:Mehedi.Amin@AOL.com?subject=[GitHub]%20Source%20Han%20Sans)
      
