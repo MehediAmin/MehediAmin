@@ -27,7 +27,7 @@ I strongly believe that we, the tech industry professionals, need to keep learni
     
  ## Tecnical Skill-Set
     
-:white_medium_small_square: **Operating System:** Windows XP/7/10, Windows Serve 2012 R2, Linux, Mac, Linux Beta <br/>
+:white_medium_small_square: **Operating System:** Windows XP/7/10, Windows Serve 2012 R2, "LIN" Linux, Mac, Linux Beta <br/>
 :white_medium_small_square: **Application Software:**  VMware, Microsoft Sandbox, Dameware, Remote Utilities, MS Excel, Word, Visio, Outlook, Power Point, Share Point, Libre Office, Mattermost, Slack <br/>
 :white_medium_small_square: **Testing Tools and Libraries:** Eclipse IDE, Katalon Studio Enterprise, Katalon Runtime Engine, JDK, Selenium Suite (Selenium IDE, Selenium Grid, Selenium Java Client Driver, Selenium WebDriver) <br/>
 :white_medium_small_square: **Testing Framework:** JUnit, TestNG, Cucumber (BDD) <br/>
